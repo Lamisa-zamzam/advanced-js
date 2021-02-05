@@ -16,3 +16,9 @@ if(userName|| userName == 0){
 }else{
     console.log("False")
 }
+
+if("false"){
+    console.log("I am not false");
+}else{
+    console.log("I am false")
+}
